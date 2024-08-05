@@ -284,3 +284,315 @@
 2024-08-05 10:14:32,141 - INFO - Host System Manager (192.168.150.166) is reachable
 2024-08-05 10:14:32,435 - INFO - Testing internet speed
 2024-08-05 10:14:58,464 - INFO - Internet speed test results - Download: 57.04 Mbps, Upload: 58.78 Mbps
+2024-08-05 10:52:09,171 - INFO - Displaying welcome message
+2024-08-05 10:52:09,177 - INFO - Alamat IP lokal adalah 192.168.88.245
+2024-08-05 10:52:09,178 - INFO - Configuration loaded from  config.json
+2024-08-05 10:52:09,197 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:52:09,215 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:52:09,233 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:52:09,246 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:52:09,246 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 10:52:09,272 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:52:09,295 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:52:09,319 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:52:09,338 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:52:09,338 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 10:52:09,357 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:52:09,365 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:52:09,380 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:52:09,398 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:52:09,398 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 10:52:09,430 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:52:09,456 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:52:09,495 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:52:09,513 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:52:09,513 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 10:52:09,530 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:52:09,554 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:52:09,566 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:52:09,580 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:52:09,580 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 10:52:09,932 - INFO - Testing internet speed
+2024-08-05 10:52:49,370 - INFO - Internet speed test results - Download: 48.05 Mbps, Upload: 28.74 Mbps
+2024-08-05 11:19:41,661 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 11:19:41,677 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 11:19:41,710 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 11:19:41,732 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 11:19:41,732 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 11:19:41,753 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 11:19:41,776 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 11:19:41,793 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 11:19:41,814 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 11:19:41,815 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 11:19:41,832 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 11:19:41,848 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 11:19:41,863 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 11:19:41,890 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 11:19:41,890 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 11:19:41,905 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 11:19:41,927 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 11:19:41,945 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 11:19:41,965 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 11:19:41,966 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 11:19:41,986 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 11:19:42,004 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 11:19:42,029 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 11:19:42,051 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 11:19:42,052 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 11:19:42,346 - INFO - Testing internet speed
+2024-08-05 11:20:16,508 - INFO - Internet speed test results - Download: 42.03 Mbps, Upload: 17.98 Mbps
+2024-08-05 11:21:23,445 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 11:21:27,445 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 11:21:34,564 - INFO - Displaying welcome message
+2024-08-05 11:21:34,570 - INFO - Alamat IP lokal adalah 127.0.0.1
+2024-08-05 11:21:34,570 - INFO - Configuration loaded from  config.json
+2024-08-05 11:21:50,632 - WARNING - Host QAD (192.168.150.155) is unreachable
+2024-08-05 11:21:50,648 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,670 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,678 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,706 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,706 - WARNING - Host VSS (192.168.160.101) is unreachable
+2024-08-05 11:21:50,724 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,735 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,747 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,763 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,763 - WARNING - Host M-Files (192.168.160.112) is unreachable
+2024-08-05 11:21:50,792 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,813 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,827 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,853 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,860 - WARNING - Host HRIS (192.168.160.106) is unreachable
+2024-08-05 11:21:50,875 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,894 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,910 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,927 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:21:50,927 - WARNING - Host System Manager (192.168.150.166) is unreachable
+2024-08-05 11:22:03,769 - INFO - Testing internet speed
+2024-08-05 11:22:39,108 - INFO - Internet speed test results - Download: 48.87 Mbps, Upload: 46.12 Mbps
+2024-08-05 11:25:31,631 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,648 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,662 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,678 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,678 - WARNING - Host QAD (192.168.150.155) is unreachable
+2024-08-05 11:25:31,703 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,723 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,743 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,763 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,763 - WARNING - Host VSS (192.168.160.101) is unreachable
+2024-08-05 11:25:31,785 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,803 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,814 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,830 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,830 - WARNING - Host M-Files (192.168.160.112) is unreachable
+2024-08-05 11:25:31,852 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,876 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,894 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,913 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,914 - WARNING - Host HRIS (192.168.160.106) is unreachable
+2024-08-05 11:25:31,930 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,944 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,963 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,980 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:31,980 - WARNING - Host System Manager (192.168.150.166) is unreachable
+2024-08-05 11:25:32,210 - INFO - Testing internet speed
+2024-08-05 11:25:44,966 - INFO - Displaying welcome message
+2024-08-05 11:25:44,979 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:25:44,979 - INFO - Configuration loaded from  config.json
+2024-08-05 11:25:44,997 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,013 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,025 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,053 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,053 - WARNING - Host QAD (192.168.150.155) is unreachable
+2024-08-05 11:25:45,070 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,088 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,109 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,128 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,128 - WARNING - Host VSS (192.168.160.101) is unreachable
+2024-08-05 11:25:45,145 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,162 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,180 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,193 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,193 - WARNING - Host M-Files (192.168.160.112) is unreachable
+2024-08-05 11:25:45,209 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,231 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,245 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,259 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,259 - WARNING - Host HRIS (192.168.160.106) is unreachable
+2024-08-05 11:25:45,291 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,292 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,314 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,329 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:45,329 - WARNING - Host System Manager (192.168.150.166) is unreachable
+2024-08-05 11:25:45,726 - INFO - Testing internet speed
+2024-08-05 11:25:55,275 - INFO - Displaying welcome message
+2024-08-05 11:25:55,282 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:25:55,282 - INFO - Configuration loaded from  config.json
+2024-08-05 11:25:55,299 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,312 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,329 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,342 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,356 - WARNING - Host QAD (192.168.150.155) is unreachable
+2024-08-05 11:25:55,377 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,395 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,413 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,425 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,425 - WARNING - Host VSS (192.168.160.101) is unreachable
+2024-08-05 11:25:55,451 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,468 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,480 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,499 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,499 - WARNING - Host M-Files (192.168.160.112) is unreachable
+2024-08-05 11:25:55,522 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,539 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,558 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,578 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,580 - WARNING - Host HRIS (192.168.160.106) is unreachable
+2024-08-05 11:25:55,597 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,615 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,624 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,648 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:25:55,648 - WARNING - Host System Manager (192.168.150.166) is unreachable
+2024-08-05 11:25:55,962 - INFO - Testing internet speed
+2024-08-05 11:31:15,800 - INFO - Displaying welcome message
+2024-08-05 11:31:15,819 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:31:15,819 - INFO - Configuration loaded from  config.json
+2024-08-05 11:31:15,831 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,853 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,865 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,878 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,878 - WARNING - Host QAD (192.168.150.155) is unreachable
+2024-08-05 11:31:15,904 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,920 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,931 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,948 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,948 - WARNING - Host VSS (192.168.160.101) is unreachable
+2024-08-05 11:31:15,961 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,985 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:15,999 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,012 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,012 - WARNING - Host M-Files (192.168.160.112) is unreachable
+2024-08-05 11:31:16,034 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,049 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,063 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,080 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,080 - WARNING - Host HRIS (192.168.160.106) is unreachable
+2024-08-05 11:31:16,096 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,117 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,133 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,149 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:31:16,149 - WARNING - Host System Manager (192.168.150.166) is unreachable
+2024-08-05 11:31:16,949 - INFO - Testing internet speed
+2024-08-05 11:31:50,251 - INFO - Internet speed test results - Download: 42.24 Mbps, Upload: 45.77 Mbps
+2024-08-05 11:44:21,437 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,454 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,467 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,483 - ERROR - Failed to ping 192.168.150.155 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,483 - WARNING - Host QAD (192.168.150.155) is unreachable
+2024-08-05 11:44:21,509 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,516 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,533 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,567 - ERROR - Failed to ping 192.168.160.101 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,569 - WARNING - Host VSS (192.168.160.101) is unreachable
+2024-08-05 11:44:21,590 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,605 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,619 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,640 - ERROR - Failed to ping 192.168.160.112 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,642 - WARNING - Host M-Files (192.168.160.112) is unreachable
+2024-08-05 11:44:21,657 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,674 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,686 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,701 - ERROR - Failed to ping 192.168.160.106 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,701 - WARNING - Host HRIS (192.168.160.106) is unreachable
+2024-08-05 11:44:21,722 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,735 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,755 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,768 - ERROR - Failed to ping 192.168.150.166 : 'float' object has no attribute 'rtt_avg'
+2024-08-05 11:44:21,782 - WARNING - Host System Manager (192.168.150.166) is unreachable
+2024-08-05 11:44:22,585 - INFO - Testing internet speed
+2024-08-05 11:44:32,870 - INFO - Displaying welcome message
+2024-08-05 11:44:32,870 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:44:32,870 - INFO - Configuration loaded from  config.json
+2024-08-05 11:44:32,945 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 11:44:33,018 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 11:44:33,087 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 11:44:33,167 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 11:44:33,231 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 11:44:33,617 - INFO - Testing internet speed
+2024-08-05 11:45:14,642 - INFO - Internet speed test results - Download: 56.69 Mbps, Upload: 48.22 Mbps
+2024-08-05 11:46:20,062 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 11:46:20,135 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 11:46:20,202 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 11:46:20,275 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 11:46:20,354 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 11:46:20,585 - INFO - Testing internet speed
+2024-08-05 11:46:40,876 - INFO - Displaying welcome message
+2024-08-05 11:46:40,899 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:46:40,899 - INFO - Configuration loaded from  config.json
+2024-08-05 11:46:40,974 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 11:46:41,055 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 11:46:41,118 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 11:46:41,209 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 11:46:41,284 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 11:46:41,663 - INFO - Testing internet speed
+2024-08-05 11:47:12,597 - INFO - Internet speed test results - Download: 46.11 Mbps, Upload: 48.38 Mbps
+2024-08-05 11:48:38,360 - INFO - Displaying welcome message
+2024-08-05 11:48:38,360 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:48:38,360 - INFO - Configuration loaded from  config.json
+2024-08-05 11:48:38,430 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 11:48:38,496 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 11:48:38,574 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 11:48:38,629 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 11:48:38,700 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 11:48:39,379 - INFO - Testing internet speed
+2024-08-05 11:49:09,374 - INFO - Internet speed test results - Download: 51.23 Mbps, Upload: 48.71 Mbps
+2024-08-05 11:50:40,036 - INFO - Displaying welcome message
+2024-08-05 11:50:40,049 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:50:40,049 - INFO - Configuration loaded from  config.json
+2024-08-05 11:50:40,122 - INFO - Host QAD (192.168.150.155) is reachable Ping time: 0.02 ms
+2024-08-05 11:50:40,179 - INFO - Host VSS (192.168.160.101) is reachable Ping time: 0.01 ms
+2024-08-05 11:50:40,247 - INFO - Host M-Files (192.168.160.112) is reachable Ping time: 0.02 ms
+2024-08-05 11:50:40,316 - INFO - Host HRIS (192.168.160.106) is reachable Ping time: 0.01 ms
+2024-08-05 11:50:40,384 - INFO - Host System Manager (192.168.150.166) is reachable Ping time: 0.02 ms
+2024-08-05 11:50:40,762 - INFO - Testing internet speed
+2024-08-05 11:51:13,490 - INFO - Internet speed test results - Download: 56.65 Mbps, Upload: 48.20 Mbps
+2024-08-05 11:51:32,520 - INFO - Displaying welcome message
+2024-08-05 11:51:32,531 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:51:32,531 - INFO - Configuration loaded from  config.json
+2024-08-05 11:51:32,602 - ERROR - Error ketika melakukan ping karena +name 'rtt' is not defined
+2024-08-05 11:51:32,892 - INFO - Testing internet speed
+2024-08-05 11:55:13,416 - INFO - Displaying welcome message
+2024-08-05 11:55:13,423 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:55:13,423 - INFO - Configuration loaded from  config.json
+2024-08-05 11:55:13,497 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 11:55:13,557 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 11:55:13,630 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 11:55:13,731 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 11:55:13,797 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 11:55:14,224 - INFO - Testing internet speed
+2024-08-05 11:55:42,932 - INFO - Internet speed test results - Download: 57.09 Mbps, Upload: 50.76 Mbps
+2024-08-05 11:56:30,059 - INFO - Displaying welcome message
+2024-08-05 11:56:30,066 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:56:30,066 - INFO - Configuration loaded from  config.json
+2024-08-05 11:56:30,131 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 11:56:30,217 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 11:56:30,282 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 11:56:30,351 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 11:56:30,422 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 11:56:30,781 - INFO - Testing internet speed
+2024-08-05 11:56:59,672 - INFO - Internet speed test results - Download: 56.83 Mbps, Upload: 50.75 Mbps
+2024-08-05 11:57:06,725 - INFO - Displaying welcome message
+2024-08-05 11:57:06,741 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 11:57:06,741 - INFO - Configuration loaded from  config.json
+2024-08-05 11:57:06,812 - INFO - Host QAD (192.168.150.155) is reachable Ping time: 0.02 ms
+2024-08-05 11:57:06,874 - INFO - Host VSS (192.168.160.101) is reachable Ping time: 0.01 ms
+2024-08-05 11:57:06,946 - INFO - Host M-Files (192.168.160.112) is reachable Ping time: 0.02 ms
+2024-08-05 11:57:07,009 - INFO - Host HRIS (192.168.160.106) is reachable Ping time: 0.02 ms
+2024-08-05 11:57:07,076 - INFO - Host System Manager (192.168.150.166) is reachable Ping time: 0.02 ms
+2024-08-05 11:57:07,403 - INFO - Testing internet speed
+2024-08-05 11:57:34,932 - INFO - Internet speed test results - Download: 57.07 Mbps, Upload: 49.43 Mbps
+2024-08-05 11:58:18,882 - INFO - Host QAD (192.168.150.155) is reachable Ping time: 0.02 ms
+2024-08-05 11:58:18,958 - INFO - Host VSS (192.168.160.101) is reachable Ping time: 0.02 ms
+2024-08-05 11:58:19,031 - INFO - Host M-Files (192.168.160.112) is reachable Ping time: 0.02 ms
+2024-08-05 11:58:19,099 - INFO - Host HRIS (192.168.160.106) is reachable Ping time: 0.01 ms
+2024-08-05 11:58:19,182 - INFO - Host System Manager (192.168.150.166) is reachable Ping time: 0.02 ms
+2024-08-05 11:58:19,419 - INFO - Testing internet speed

@@ -104,9 +104,14 @@ def ping(ip):
     try:
         # Mengirim ping ke alamat IP yang diberikan
         response = ping3.ping(ip)
+        if response:
+            return response is not None and response
+            pingtime= reponse.rttavg
+            #return response.rtt_avg # mengembalikan nilan rtt ping
+        else:
+            return None
         logging.info(f"Ping to {ip} {'Succeeded' if response else 'failed'}")
         # Mengembalikan True jika ada respons, False jika tidak ada
-        return response is not None and response
     except Exception as e:
         # Menangani pengecualian jika ping gagal
         logging.error(f"Failed to ping {ip} : {str(e)}")
@@ -123,10 +128,15 @@ def check_network(ip_list, counter=4):
             gagal = 0  # Menghitung jumlah ping yang gagal
             berhasil = 0  # Menghitung jumlah ping yang berhasil
             for _ in range(counter):  # Mengirim ping sejumlah counter kali
-                if not ping(alamat_ip):  # Jika ping gagal
-                    gagal += 1
-                else:  # Jika ping berhasil
+                rtt = ping(alamat_ip)
+                if rtt:  # Jika ping berhasil
                     berhasil += 1
+                else:  # Jika ping gagal
+                    gagal += 1
+                # if not ping(alamat_ip):  # Jika ping gagal
+                #     gagal += 1
+                # else:  # Jika ping berhasil
+                #     berhasil += 1
             
             # Menampilkan status koneksi berdasarkan hasil ping
             if gagal == counter:  # Jika semua ping gagal
@@ -142,9 +152,10 @@ def check_network(ip_list, counter=4):
                 # print(f"gagal = {gagal}")
                 # print(f"berhasil = {berhasil}")
             else:  # Jika semua atau hampir semua ping berhasil
-                print(f"Host {nama_ip} ({alamat_ip}) ====>> is reachable. Koneksi jaringan bagus. \n")
+                #print(f"Host {nama_ip} ({alamat_ip}) ====>> is reachable. Koneksi jaringan bagus. \n")
+                print(f"Host {nama_ip} ({alamat_ip}) ====>> is reachable. Koneksi jaringan bagus Ping time: {rtt:.2f} ms")
                 print('______________________________________________________________________')
-                logging.info(f"Host {nama_ip} ({alamat_ip}) is reachable")
+                logging.info(f"Host {nama_ip} ({alamat_ip}) is reachable Ping time: {rtt:.2f} ms")
                 # print(f"berhasil = {berhasil}")
                 # print(f"gagal = {gagal}")
     except Exception as e:
