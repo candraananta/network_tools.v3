@@ -1,0 +1,286 @@
+2024-08-05 09:27:45,398 - INFO - Displaying welcome message
+2024-08-05 09:27:45,398 - INFO - Configuration loaded from  config.json
+2024-08-05 09:53:42,181 - INFO - Displaying welcome message
+2024-08-05 09:53:42,182 - INFO - Configuration loaded from  config.json
+2024-08-05 09:53:42,203 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 09:53:42,221 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 09:53:42,234 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 09:53:42,262 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 09:53:42,264 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 09:53:42,282 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 09:53:42,303 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 09:53:42,314 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 09:53:42,346 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 09:53:42,347 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 09:53:42,363 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:53:42,398 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:53:42,415 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:53:42,434 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:53:42,435 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 09:53:42,451 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:53:42,469 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:53:42,482 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:53:42,497 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:53:42,497 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 09:53:42,513 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:53:42,537 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:53:42,556 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:53:42,579 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:53:42,579 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 09:53:42,980 - INFO - Testing internet speed
+2024-08-05 09:54:16,778 - INFO - Internet speed test results - Download: 38.81 Mbps, Upload: 44.57 Mbps
+2024-08-05 09:54:19,564 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 09:54:19,579 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 09:54:19,595 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 09:54:19,626 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 09:54:19,626 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 09:54:19,658 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 09:54:19,674 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 09:54:19,705 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 09:54:19,722 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 09:54:19,722 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 09:54:19,737 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:54:19,753 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:54:19,768 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:54:19,800 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:54:19,800 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 09:54:19,816 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:54:19,831 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:54:19,847 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:54:19,863 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:54:19,863 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 09:54:19,894 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:54:19,926 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:54:19,941 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:54:19,957 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:54:19,973 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 09:54:20,224 - INFO - Testing internet speed
+2024-08-05 09:54:48,087 - INFO - Internet speed test results - Download: 56.17 Mbps, Upload: 47.64 Mbps
+2024-08-05 09:55:17,142 - INFO - Displaying welcome message
+2024-08-05 09:55:17,143 - INFO - Configuration loaded from  config.json
+2024-08-05 09:55:21,156 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 09:55:25,169 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 09:55:29,169 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 09:55:33,185 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 09:55:33,185 - WARNING - Host QAD (192.168.150.155) is unreachable
+2024-08-05 09:55:37,196 - INFO - Ping to 192.168.160.101 failed
+2024-08-05 09:55:41,213 - INFO - Ping to 192.168.160.101 failed
+2024-08-05 09:55:45,222 - INFO - Ping to 192.168.160.101 failed
+2024-08-05 09:55:49,236 - INFO - Ping to 192.168.160.101 failed
+2024-08-05 09:55:49,237 - WARNING - Host VSS (192.168.160.101) is unreachable
+2024-08-05 09:55:53,250 - INFO - Ping to 192.168.160.112 failed
+2024-08-05 09:55:57,254 - INFO - Ping to 192.168.160.112 failed
+2024-08-05 09:56:01,261 - INFO - Ping to 192.168.160.112 failed
+2024-08-05 09:56:05,273 - INFO - Ping to 192.168.160.112 failed
+2024-08-05 09:56:05,274 - WARNING - Host M-Files (192.168.160.112) is unreachable
+2024-08-05 09:56:09,289 - INFO - Ping to 192.168.160.106 failed
+2024-08-05 09:56:12,142 - INFO - Ping to 192.168.160.106 failed
+2024-08-05 09:56:15,146 - INFO - Ping to 192.168.160.106 failed
+2024-08-05 09:56:18,155 - INFO - Ping to 192.168.160.106 failed
+2024-08-05 09:56:18,155 - WARNING - Host HRIS (192.168.160.106) is unreachable
+2024-08-05 09:56:21,138 - INFO - Ping to 192.168.150.166 failed
+2024-08-05 09:56:25,147 - INFO - Ping to 192.168.150.166 failed
+2024-08-05 09:56:29,150 - INFO - Ping to 192.168.150.166 failed
+2024-08-05 09:56:32,142 - INFO - Ping to 192.168.150.166 failed
+2024-08-05 09:56:32,142 - WARNING - Host System Manager (192.168.150.166) is unreachable
+2024-08-05 09:56:32,302 - ERROR - Error during the speed test: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-08-05 09:58:06,361 - INFO - Displaying welcome message
+2024-08-05 09:58:06,362 - INFO - Configuration loaded from  config.json
+2024-08-05 09:58:10,370 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 09:58:13,147 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 09:58:16,138 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 09:58:19,146 - INFO - Ping to 192.168.150.155 failed
+2024-08-05 09:58:19,154 - WARNING - Host QAD (192.168.150.155) is unreachable
+2024-08-05 09:58:22,143 - INFO - Ping to 192.168.160.101 failed
+2024-08-05 09:58:25,137 - INFO - Ping to 192.168.160.101 failed
+2024-08-05 09:58:28,139 - INFO - Ping to 192.168.160.101 failed
+2024-08-05 09:58:31,139 - INFO - Ping to 192.168.160.101 failed
+2024-08-05 09:58:31,139 - WARNING - Host VSS (192.168.160.101) is unreachable
+2024-08-05 09:58:34,134 - INFO - Ping to 192.168.160.112 failed
+2024-08-05 09:58:37,135 - INFO - Ping to 192.168.160.112 failed
+2024-08-05 09:58:38,141 - INFO - Ping to 192.168.160.112 failed
+2024-08-05 09:58:38,157 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 09:58:38,173 - WARNING - Host M-Files (192.168.160.112) has poor connection
+2024-08-05 09:58:38,188 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:58:38,210 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:58:38,220 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:58:38,245 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 09:58:38,246 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 09:58:38,267 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:58:38,270 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:58:38,302 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:58:38,320 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 09:58:38,321 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 09:58:39,909 - INFO - Testing internet speed
+2024-08-05 10:08:49,815 - INFO - Displaying welcome message
+2024-08-05 10:08:49,815 - INFO - Configuration loaded from  config.json
+2024-08-05 10:08:49,835 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:08:49,852 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:08:49,870 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:08:49,886 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:08:49,886 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 10:08:49,911 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:08:49,941 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:08:49,952 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:08:49,979 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:08:49,980 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 10:08:49,999 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:08:50,016 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:08:50,041 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:08:50,058 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:08:50,060 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 10:08:50,080 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:08:50,101 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:08:50,120 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:08:50,142 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:08:50,144 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 10:08:50,164 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:08:50,185 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:08:50,203 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:08:50,232 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:08:50,235 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 10:08:50,765 - INFO - Testing internet speed
+2024-08-05 10:09:13,614 - INFO - Displaying welcome message
+2024-08-05 10:09:13,634 - INFO - Configuration loaded from  config.json
+2024-08-05 10:09:13,649 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:09:13,672 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:09:13,701 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:09:13,714 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:09:13,714 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 10:09:13,730 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:09:13,747 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:09:13,779 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:09:13,796 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:09:13,796 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 10:09:13,813 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:09:13,836 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:09:13,862 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:09:13,881 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:09:13,881 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 10:09:13,912 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:09:13,928 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:09:13,950 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:09:13,963 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:09:13,963 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 10:09:13,980 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:09:13,997 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:09:14,017 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:09:14,031 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:09:14,031 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 10:09:14,336 - INFO - Testing internet speed
+2024-08-05 10:09:43,048 - INFO - Internet speed test results - Download: 55.09 Mbps, Upload: 48.82 Mbps
+2024-08-05 10:12:43,229 - INFO - Displaying welcome message
+2024-08-05 10:12:43,235 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 10:12:43,235 - INFO - Configuration loaded from  config.json
+2024-08-05 10:12:43,253 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:12:43,266 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:12:43,283 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:12:43,317 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:12:43,317 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 10:12:43,334 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:12:43,353 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:12:43,367 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:12:43,387 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:12:43,389 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 10:12:43,406 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:12:43,425 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:12:43,435 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:12:43,461 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:12:43,462 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 10:12:43,479 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:12:43,502 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:12:43,519 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:12:43,537 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:12:43,539 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 10:12:43,603 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:12:43,622 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:12:43,659 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:12:43,686 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:12:43,686 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 10:12:44,150 - INFO - Testing internet speed
+2024-08-05 10:13:16,572 - INFO - Internet speed test results - Download: 56.43 Mbps, Upload: 48.85 Mbps
+2024-08-05 10:13:56,467 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:13:56,483 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:13:56,492 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:13:56,507 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:13:56,521 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 10:13:56,540 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:13:56,558 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:13:56,575 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:13:56,592 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:13:56,593 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 10:13:56,612 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:13:56,628 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:13:56,644 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:13:56,657 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:13:56,657 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 10:13:56,680 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:13:56,693 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:13:56,708 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:13:56,737 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:13:56,740 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 10:13:56,758 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:13:56,775 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:13:56,793 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:13:56,807 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:13:56,807 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 10:13:57,058 - INFO - Testing internet speed
+2024-08-05 10:14:10,684 - INFO - Displaying welcome message
+2024-08-05 10:14:10,692 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 10:14:10,692 - INFO - Configuration loaded from  config.json
+2024-08-05 10:14:10,712 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:14:10,737 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:14:10,756 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:14:10,777 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:14:10,779 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 10:14:10,801 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:14:10,822 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:14:10,856 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:14:10,871 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:14:10,871 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 10:14:10,889 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:14:10,921 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:14:10,940 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:14:10,956 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:14:10,956 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 10:14:10,985 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:14:11,003 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:14:11,028 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:14:11,054 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:14:11,054 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 10:14:11,087 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:14:11,106 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:14:11,152 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:14:11,183 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:14:11,183 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 10:14:11,523 - INFO - Testing internet speed
+2024-08-05 10:14:31,726 - INFO - Displaying welcome message
+2024-08-05 10:14:31,732 - INFO - Alamat IP lokal adalah 192.168.200.187
+2024-08-05 10:14:31,732 - INFO - Configuration loaded from  config.json
+2024-08-05 10:14:31,754 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:14:31,769 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:14:31,793 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:14:31,811 - INFO - Ping to 192.168.150.155 Succeeded
+2024-08-05 10:14:31,813 - INFO - Host QAD (192.168.150.155) is reachable
+2024-08-05 10:14:31,832 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:14:31,839 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:14:31,855 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:14:31,870 - INFO - Ping to 192.168.160.101 Succeeded
+2024-08-05 10:14:31,870 - INFO - Host VSS (192.168.160.101) is reachable
+2024-08-05 10:14:31,905 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:14:31,926 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:14:31,939 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:14:31,967 - INFO - Ping to 192.168.160.112 Succeeded
+2024-08-05 10:14:31,968 - INFO - Host M-Files (192.168.160.112) is reachable
+2024-08-05 10:14:31,988 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:14:32,019 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:14:32,044 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:14:32,064 - INFO - Ping to 192.168.160.106 Succeeded
+2024-08-05 10:14:32,065 - INFO - Host HRIS (192.168.160.106) is reachable
+2024-08-05 10:14:32,080 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:14:32,101 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:14:32,118 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:14:32,140 - INFO - Ping to 192.168.150.166 Succeeded
+2024-08-05 10:14:32,141 - INFO - Host System Manager (192.168.150.166) is reachable
+2024-08-05 10:14:32,435 - INFO - Testing internet speed
+2024-08-05 10:14:58,464 - INFO - Internet speed test results - Download: 57.04 Mbps, Upload: 58.78 Mbps
