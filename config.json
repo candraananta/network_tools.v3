@@ -1,10 +1,51 @@
 {
-    "ip_addresses": [
-      {"name": "QAD", "ip": "192.168.150.155"},
-      {"name": "VSS", "ip": "192.168.160.101"},
-      {"name": "M-Files", "ip": "192.168.160.112"},
-      {"name": "HRIS", "ip": "192.168.160.106"},
-      {"name": "System Manager", "ip": "192.168.150.166"}
-    ]
-  }
-  
+  "ip_addresses": [
+    {"name": "QAD", "ip": "192.168.150.155"},
+    {"name": "VSS", "ip": "192.168.160.101"},
+    {"name": "M-Files", "ip": "192.168.160.112"},
+    {"name": "HRIS", "ip": "192.168.160.106"},
+    {"name": "System Manager", "ip": "192.168.150.166"}
+  ],
+  "IP_address_device": [
+    {"name": "Ruckus01", "ip": "192.168.225.9"},
+    {"name": "Ruckus02", "ip": "192.168.225.10"},
+    {"name": "Ruckus 03", "ip": "192.168.225.11"},
+    {"name": "NVR IDIS", "ip": "192.168.225.30"},
+    {"name": "CCTV Jetty", "ip": "192.168.225.31"},
+    {"name": "CCTV Pagar Sisi Timur", "ip": "192.168.225.32"},
+    {"name": "CCTV Header HSD", "ip": "192.168.225.33"},
+    {"name": "CCTV Header MFO", "ip": "192.168.225.34"},
+    {"name": "CCTV Area Aruki", "ip": "192.168.225.35"},
+    {"name": "CCTV Area Scarp", "ip": "192.168.225.36"},
+    {"name": "CCTV Filling 1", "ip": "192.168.225.37"},
+    {"name": "CCTV Filling 2", "ip": "192.168.225.38"},
+    {"name": "CCTV Pagar Utara", "ip": "192.168.225.39"},
+    {"name": "CCTV Oil Boom", "ip": "192.168.225.40"},
+    {"name": "CCTV Filling Station", "ip": "192.168.225.41"},
+    {"name": "CCTV Gate In", "ip": "192.168.225.42"},
+    {"name": "PTP Wireless SPBI 1", "ip": "192.9.201.10"},
+    {"name": "PTP Wireless SPBI 2", "ip": "192.9.201.20"},
+    {"name": "PC Scada", "ip": "192.168.225.50"},
+    {"name": "PC EXC Site", "ip": "192.168.225.57"},
+    {"name": "PC EXC Site Backup", "ip": "192.168.225.58"},
+    {"name": "PC ATG Emerson ( Petrol )", "ip": "192.168.225.219"},
+    {"name": "Printer Kyocera 1", "ip": "192.168.225.45"},
+    {"name": "Printer Kyocera 2", "ip": "192.168.225.46"},
+    {"name": "NAS Synology", "ip": "192.168.225.239"},
+    {"name": "PC ICO Datalogger", "ip": "192.168.225.93"},
+    {"name": "Printer HMI", "ip": "192.168.225.72"},
+    {"name": "SKID 1", "ip": "192.168.225.51"},
+    {"name": "SKID 2", "ip": "192.168.225.52"},
+    {"name": "SKID 3", "ip": "192.168.225.53"},
+    {"name": "PLC Filling 1", "ip": "192.168.225.59"},
+    {"name": "HMI 1B", "ip": "192.168.225.60"},
+    {"name": "HMI MFO", "ip": "192.168.225.64"},
+    {"name": "PLC Jetty 2", "ip": "192.168.225.68"},
+    {"name": "HMI Jetty 2", "ip": "192.168.225.69"},
+    {"name": "PLC Jetty 1", "ip": "192.168.225.65"},
+    {"name": "HMI Jetty 1", "ip": "192.168.225.67"},
+    {"name": "PLC Filling 1A", "ip": "192.168.225.61"},
+    {"name": "HMI 1A", "ip": "192.168.225.62"},
+    {"name": "HMI 1C", "ip": "192.168.225.63"}
+  ]
+}
